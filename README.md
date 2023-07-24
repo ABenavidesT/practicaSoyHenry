@@ -1,1 +1,1 @@
-Esta es una prueba de como clonar mi repositorio git hub y trabajar en forma local
+Esta es una nueva prueba de como clonar mi repositorio github a una carpeta local en mi escritorio
